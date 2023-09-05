@@ -1,0 +1,17 @@
+{
+  "name": "tort",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "newton.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.3"
+  }
+}
